@@ -1,2 +1,2 @@
 # NotesStudentsSwift
-calculate notes and average for a student
+calculate notes and average for students
